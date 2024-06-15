@@ -132,4 +132,4 @@ dmypy.json
 .vscode/
 
 # Ignore all .db files
-*.db
+*.db.DS_Store
